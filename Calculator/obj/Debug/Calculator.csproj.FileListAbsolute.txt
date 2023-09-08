@@ -1,0 +1,7 @@
+C:\Users\vikvarennyk\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\vikvarennyk\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\vikvarennyk\Desktop\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\vikvarennyk\Desktop\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\vikvarennyk\Desktop\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\vikvarennyk\Desktop\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\vikvarennyk\Desktop\Calculator\Calculator\obj\Debug\Calculator.pdb
